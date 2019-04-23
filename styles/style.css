@@ -4,6 +4,9 @@ body {
  	text-align: center;
  	background-color: white;
 }
+div {
+	display: inline-block;
+}
 ul {
   list-style-type: none;
   margin: 0;
