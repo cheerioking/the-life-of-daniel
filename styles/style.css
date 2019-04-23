@@ -4,3 +4,21 @@ body {
  	text-align: center;
  	background-color: white;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+li a {
+  display: block;
+  width: 60px;
+}
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
