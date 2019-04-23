@@ -1,4 +1,5 @@
 body {
+	height: 100%;
 	background: #FFFFB2;
 	font-family: "Times New Roman", serif;
  	text-align: center;
@@ -16,4 +17,7 @@ body {
 .nav a{
     display:inline-block;
     padding:10px;
+}
+iframe {
+
 }
